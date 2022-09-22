@@ -13,7 +13,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://codegazer90.github.io/single-price-grid/)
+- Live Site URL: (https://codegazer90.github.io/single-price-grid/)
 
 ## My process
 
@@ -21,10 +21,9 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 
 ### What I learned
