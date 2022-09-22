@@ -112,6 +112,24 @@ section{
     color: hsl(204, 43%, 93%);
     line-height: 1.5rem;
 }
+
+@media only screen and (min-width: 768px){
+.container{
+    grid-template-columns: 1fr 1fr;
+}
+.item-1{
+    grid-area: 1/1/2/3;
+}
+.item-2, .item-3{
+    grid-row: 2;
+}
+
+.container{
+    max-width: 675px;
+}
+}
+
+
 .attribution { font-size: 11px; text-align: center; }
 
 .attribution a { color: hsl(228, 45%, 44%); }
